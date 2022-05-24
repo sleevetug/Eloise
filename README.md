@@ -1,4 +1,4 @@
-# Eloise
+# Eloise McGinley - Python Portfolio
 
 This repository contains a collection of the worksheets and projects I completed during the learning, and development of my Python coding skills with futureCoders.
 
