@@ -11,5 +11,5 @@ The *Worksheets* folder contains a number of worksheets that I completed that fi
 
 - Sea Level project - I have worked with data on rising sea levels, cleaned it and visualised it, and I have used linear regression to help to predict sea levels up to 2050.
 
-- -NumPy Sea Level Project - Using NumPy, I looked for a correlation between time data and the sea level rise.
+- NumPy Sea Level Project - Using NumPy, I looked for a correlation between time data and the sea level rise.
 
